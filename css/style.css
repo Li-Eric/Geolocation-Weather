@@ -1,3 +1,5 @@
+/* Animated weather icons made by Fabrizio Bianchi. http://codepen.io/fbrz/pen/iqtlk /* 
+
 /* SUNNY */
 
 .sunny {
@@ -453,8 +455,8 @@ h2 {
   margin-top: 50px;  
 }
 
-#info-box{
-  
+#temperature:hover{
+  cursor:pointer;
 }
 
 #static-display{
@@ -475,8 +477,4 @@ h2 {
 img{
   width:100px;
   height:100px;
-}
-
-#temperature:hover{
-  cursor:pointer;
 }
