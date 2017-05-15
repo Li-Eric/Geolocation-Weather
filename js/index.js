@@ -34,7 +34,7 @@ $(document).ready(function() {
   }
 
   function noLocation() {
-    alert('Could not find location');
+    alert('Could not find location. This app works best in Microsoft Edge or Firefox.');
   }
 
   function changeTemperature() {
