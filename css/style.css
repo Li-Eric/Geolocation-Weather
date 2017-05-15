@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* Animated weather icons made by Fabrizio Bianchi. http://codepen.io/fbrz/pen/iqtlk */
+=======
+/* Animated weather icons made by Fabrizio Bianchi. http://codepen.io/fbrz/pen/iqtlk /* 
+>>>>>>> refs/remotes/origin/gh-pages
 
 /* SUNNY */
 
@@ -421,7 +425,7 @@
 
 body {
   font-family:Raleway, Segoe UI;
-  background: URL(http://andrealoeppky.com/wp-content/uploads/2013/07/Dock_View_Lake_Roseau.jpg) no-repeat center center fixed;
+  background: URL(https://img.clipartfest.com/7e1f618063ffcc22b356f69726aacbb7_calm-calm_1440-900.jpeg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -455,8 +459,8 @@ h2 {
   margin-top: 50px;  
 }
 
-#info-box{
-  
+#temperature:hover{
+  cursor:pointer;
 }
 
 #static-display{
@@ -477,8 +481,4 @@ h2 {
 img{
   width:100px;
   height:100px;
-}
-
-#temperature:hover{
-  cursor:pointer;
 }
